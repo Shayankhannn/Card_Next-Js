@@ -1,1 +1,1 @@
-card
+card component prototype using swiper for production 
